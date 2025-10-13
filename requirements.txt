@@ -1,0 +1,23 @@
+# Core scientific stack
+numpy==2.1.2
+pandas==2.2.3
+scipy==1.14.1
+
+# Machine learning
+scikit-learn==1.5.2
+xgboost==2.1.1
+
+# NLP utilities
+nltk==3.9.1
+
+# Statistical tests (Python 3.13 friendly) — use mlxtend for McNemar, etc.
+mlxtend==0.23.3
+
+# Visualization (optional but recommended for report figures)
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Utilities
+joblib==1.4.2
+threadpoolctl==3.5.0
+PyYAML==6.0.2
